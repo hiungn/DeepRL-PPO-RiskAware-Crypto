@@ -2,7 +2,7 @@
 
 A PPO-based framework for multi-asset crypto portfolio management with **price-drift No-Trade Zone**, **learned cash allocation**, and **quadratic drawdown penalty**. Built with Stable-Baselines3 and Gymnasium.
 
-> Course project for REL301m (Reinforcement Learning) at FPT University, 2026.
+> Course project for REL301m (Reinforcement Learning) at FPT University, Spring 2026.
 
 ![System Architecture](docs/final_paper/figures/system_architecture.png)
 
