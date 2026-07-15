@@ -1,0 +1,53 @@
+# REL301m — Exact pinned versions (generated from working venv)
+# Python 3.13 | Tested on Windows 11
+# Install: pip install -r requirements.txt
+
+gymnasium==1.2.3
+stable_baselines3==2.7.1
+torch==2.10.0
+numpy==2.4.2
+pandas==3.0.1
+yfinance==1.2.0
+matplotlib==3.10.8
+ta==0.11.0
+tensorboard>=2.14.0
+
+# Auto-resolved dependencies (pinned for reproducibility)
+beautifulsoup4==4.14.3
+certifi==2026.1.4
+cffi==2.0.0
+charset-normalizer==3.4.4
+cloudpickle==3.1.2
+contourpy==1.3.3
+curl_cffi==0.13.0
+cycler==0.12.1
+Farama-Notifications==0.0.4
+filelock==3.24.3
+fonttools==4.61.1
+frozendict==2.4.7
+fsspec==2026.2.0
+idna==3.11
+Jinja2==3.1.6
+kiwisolver==1.4.9
+MarkupSafe==3.0.3
+mpmath==1.3.0
+multitasking==0.0.12
+networkx==3.6.1
+packaging==26.0
+peewee==4.0.0
+pillow==12.1.1
+platformdirs==4.9.2
+protobuf==6.33.5
+pycparser==3.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.5
+setuptools==82.0.0
+six==1.17.0
+soupsieve==2.8.3
+sympy==1.14.0
+typing_extensions==4.15.0
+tzdata==2025.3
+urllib3==2.6.3
+websockets==16.0
